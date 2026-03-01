@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fupameaning.xyz/sitemap.xml
